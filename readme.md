@@ -378,7 +378,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Abhay Rajput**
 - GitHub: https://github.com/99mint
 - LinkedIn: www.linkedin.com/in/abhay-rajput-081927360
 
